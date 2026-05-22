@@ -3,7 +3,7 @@
 ## Fichiers du projet
 
 - Papier de référence : `2304.04273v2.pdf`
-- TD : `TD1+2.ipynb`
+- TD : `TD4.ipynb`
 
 ## Consigne de réponse
 
